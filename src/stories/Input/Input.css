@@ -1,0 +1,20 @@
+.Text--medium {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+.Text--large {
+  font-size: 16px;
+  padding: 12px 24px;
+}
+.Text--primary{
+  border-color: blueviolet;
+  outline: 0;
+  height: 35px;
+  width: 180px;
+}
+.Text--secondary{
+  border-color: rgb(179, 32, 32);
+  outline: 0;
+  height: 35px;
+  width: 140px;
+}
